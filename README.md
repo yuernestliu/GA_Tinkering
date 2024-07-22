@@ -27,10 +27,11 @@ Our experiments reveal that:
 These findings highlight the importance of modularity and modular recombination in enhancing solution space exploration, both in evolutionary algorithms and potentially in natural evolution.
 
 ## Repository Contents
-- `base.py`: Contains basic functions for chromosome manipulation, world state checking, and fitness calculation.
+- `base.py`: It contains basic functions for chromosome manipulation, world state checking, and fitness calculation.
 - `all_full_score_solutions.py`: Script to find all possible full-score solutions by exhaustive search.
 - `evolution_tree.py`: Main script for running the genetic algorithm and generating evolution trees (for Fig. S3 in Supplementary Information of the paper).
-- `evolution_tree_prune.py`: Pruning the extra edges from the graphs (for Fig.5a in the paper).
+- `evolution_tree_prune.py`: Script that prunes the extra edges from the graphs (for Fig.5a in the paper).
+- Folder `Fig2_chromosomeExamples`: It contains the animations of the three solutions presented in Fig. 2 in the paper.
 
 
 ## Requirements
