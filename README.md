@@ -31,7 +31,7 @@ These findings highlight the importance of modularity and modular recombination 
 - `all_full_score_solutions.py`: Script to find all possible full-score solutions by exhaustive search.
 - `evolution_tree.py`: Main script for running the genetic algorithm and generating evolution trees (for Fig. S3 in Supplementary Information of the paper).
 - `evolution_tree_prune.py`: Script that prunes the extra edges from the graphs (for Fig. 5a in the paper).
-- `findModule_anyLength.py`: Script that ??? (for Fig. 6 in the paper).
+- `findModule_anyLength.py`: Script that calculates the distribution of modular index (for Fig. 6 in the paper).
 - Folder `Fig2_chromosomeExamples`: It contains the animations of the three solutions presented in Fig. 2 in the paper.
 
 
